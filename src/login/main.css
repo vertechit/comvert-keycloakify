@@ -49,6 +49,7 @@ button.kcFormPasswordVisibilityButtonClass{
     transition: transform 0.2s, box-shadow 0.2s;
     cursor: pointer;
     width: 100%;
+    margin-bottom: 5px;
 }
 
 .kcButtonClass:hover {
